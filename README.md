@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/1398313.jpg" height="280" width="1080"/>
-</p>
-
 <h2 align="center">'I have no special talent. I am only passionately curious!' ~ Albert Einstein</h2>
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
