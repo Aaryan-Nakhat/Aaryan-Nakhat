@@ -9,7 +9,7 @@
 
 - 🎯 2022 Goals: Learning about and getting a broader understanding of the deployment phase of an ML model. I would also like to explore ways to efficiently scale the deployed models.
 
-- 💬 Ask me about Semantic Segmentation, Audio Signal Processing using Deep Learning, Music Information Retrieval, Time Series Analysis, Custom DL networks.
+- 💬 Ask me about Biomedical Image Segmentation, Audio Signal Processing using Deep Learning, Music Information Retrieval, Time Series Analysis, Custom DL networks.
 
 - 📫 Reach me out at: [aaryan.nakhat@gmail.com](aaryan.nakhat@gmail.com)
 
