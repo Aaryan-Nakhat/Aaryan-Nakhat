@@ -4,7 +4,7 @@
 <p align="center">I'm an Undergrad Student with an innate curiosity for AI in general. I love getting my <br/> hands dirty by learning to code almost any new application that uses AI under-the-hood.</p><br/>
 
 
-- 🌱 I’m currently learning about advanced GANs, Diffusion Models and Semi-Supervised learning.
+- 🌱 I’m currently learning about advanced GANs, Diffusion Models and Graph Neural Networks.
 
 - 🎯 2023 Goals: Read lots and lots of research papers in generative modelling and NLP and try to implement them in code. Also getting familiarized with the MLOps Cycle.
 
