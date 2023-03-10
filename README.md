@@ -3,13 +3,12 @@
 
 <p align="center">I'm an Undergrad Student with an innate curiosity for AI in general. I love getting my <br/> hands dirty by learning to code almost any new application that uses AI under-the-hood.</p><br/>
 
-- 🔭 I’m currently working on Musical Instrument Classification using a deep-hybrid CNN in a Multi-task learning environment.
 
-- 🌱 I’m currently learning about GANs, Semi-Supervised learning and various approaches for Distributed Training.
+- 🌱 I’m currently learning about advanced GANs, Diffusion Models and Semi-Supervised learning.
 
-- 🎯 2022 Goals: Learning about and getting a broader understanding of the deployment phase of an ML model. I would also like to explore ways to efficiently scale the deployed models.
+- 🎯 2023 Goals: Read lots and lots of research papers in generative modelling and NLP and try to implement them in code. Also getting familiarized with the MLOps Cycle.
 
-- 💬 Ask me about NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, Custom DL networks.
+- 💬 Ask me about GANs, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, Custom DL networks.
 
 - 📫 Reach me out at: [aaryan.nakhat@gmail.com](aaryan.nakhat@gmail.com)
 
