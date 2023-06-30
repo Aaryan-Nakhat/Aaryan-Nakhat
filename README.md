@@ -1,14 +1,13 @@
 <h2 align="center">'I have no special talent. I am only passionately curious!' ~ Albert Einstein</h2>
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
-<p align="center">I'm an Undergrad Student with an innate curiosity for AI in general. I love getting my <br/> hands dirty by learning to code almost any new application that uses AI under-the-hood.</p><br/>
+<p align="center">I'm a Software Developer working in the area of LLMs and Data Engineering at ValueLabs. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI (such as LLMs, and Generative AI) is what I enjoy doing.
 
+- 🌱 I’m currently learning about recent advancements in LLMs, GANs, and Diffusion Models.
 
-- 🌱 I’m currently learning about advanced GANs, Diffusion Models and Graph Neural Networks.
+- 🎯 2023 Goals: Read lots and lots of research papers on LLMs and generative modeling and try to implement them in code. Also getting familiarized with the MLOps Cycle.
 
-- 🎯 2023 Goals: Read lots and lots of research papers in generative modelling and NLP and try to implement them in code. Also getting familiarized with the MLOps Cycle.
-
-- 💬 Ask me about GANs, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, Custom DL networks.
+- 💬 Ask me about LLMs, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, and Custom DL networks.
 
 - 📫 Reach me out at: [aaryan.nakhat@gmail.com](aaryan.nakhat@gmail.com)
 
@@ -16,7 +15,7 @@
 
 - 💡 Other Interests: Fields like Astrophysics, Quantum Mechanics, Economics & Human Psychology never fall short to instigate my curiosity.
 
-- 🔮 Hobbies: Cooking, cycling, playing and watching cricket are some of my preferred downtime activities.
+- 🔮 Hobbies: Cooking, cycling, playing, and watching cricket are some of my preferred downtime activities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
