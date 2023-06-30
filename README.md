@@ -1,7 +1,7 @@
 <h2 align="center">'I have no special talent. I am only passionately curious!' ~ Albert Einstein</h2>
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
-<p align="center">I'm a Software Developer working in the area of LLMs and Data Engineering at ValueLabs. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI (such as LLMs, and Generative AI) is what I enjoy doing.
+<p align="center">I'm a Software Developer working in the area of LLMs and Data Engineering at ValueLabs. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI is what I enjoy doing.
 
 - 🌱 I’m currently learning about recent advancements in LLMs, GANs, and Diffusion Models.
 
