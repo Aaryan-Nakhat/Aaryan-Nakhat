@@ -1,19 +1,19 @@
 <h2 align="center">'I have no special talent. I am only passionately curious!' ~ Albert Einstein</h2>
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
-<p align="center">I'm a Software Developer working in the area of LLMs and Data Engineering at ValueLabs. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI is what I enjoy doing.
+<p align="center">I'm an AI/ML Engineer at SalesAgents AI. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI (specially LLMs and RAG) is what I enjoy doing.
 
-- 🌱 I’m currently learning about recent advancements in LLMs, GANs, and Diffusion Models.
+- 🌱 I’m currently exploring recent advancements in GraphRAG, multimodal LLMs, and Diffusion Models.
 
-- 🎯 2023 Goals: Read lots and lots of research papers on LLMs and generative modeling and try to implement them in code. Also getting familiarized with the MLOps Cycle.
+- 🎯 2024 Goals: Read lots and lots of research papers on LLMs and generative modeling and try to implement them in code. Also, getting familiarized with Kubernetes, MLOps, and AiOps best practices.
 
-- 💬 Ask me about LLMs, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, and Custom DL networks.
+- 💬 Ask me about LLMs, RAG, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, and Custom DL networks.
 
 - 📫 Reach me out at: [aaryan.nakhat@gmail.com](aaryan.nakhat@gmail.com)
 
-- 🏅Social Contributions: I use <a href="https://linktr.ee/Technology_And_Physics101">social media</a> to educate the tech and physics audience by making them aware of the recent happenings in these fields and by explaining complex concepts in a more intuitive and lucid manner.
+- 🏅Social Contributions: I use <a href="https://linktr.ee/Technology_And_Physics101">social media</a> to educate the tech and physics audience by making them aware of the recent happenings in these fields and by explaining complex concepts more intuitively and lucidly.
 
-- 💡 Other Interests: Fields like Astrophysics, Quantum Mechanics, Economics & Human Psychology never fall short to instigate my curiosity.
+- 💡 Other Interests: Fields like Astrophysics, Quantum Mechanics, Economics & Human Psychology never fall short of instigating my curiosity.
 
 - 🔮 Hobbies: Cooking, cycling, playing, and watching cricket are some of my preferred downtime activities.
 
