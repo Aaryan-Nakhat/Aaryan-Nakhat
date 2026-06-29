@@ -1,21 +1,17 @@
-<h2 align="center">'I have no special talent. I am only passionately curious!' ~ Albert Einstein</h2>
+<h2 align="center">"I have no special talent. I am only passionately curious." ~ Albert Einstein</h2>
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
-<p align="center">I'm an AI/ML Engineer at SalesAgents AI. I love playing around with data and building sophisticated end-to-end ML models. Getting my hands dirty with the newest developments in AI (specially LLMs and RAG) is what I enjoy doing.
+<p align="center">
+<b>Founding AI/ML Engineer @ SalesAgents AI</b>, building production-grade AI systems. 5+ years in AI/ML (3+ professional), specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
+</p>
 
-- 🌱 I’m currently exploring recent advancements in GraphRAG, multimodal LLMs, and Diffusion Models.
-
-- 🎯 2024 Goals: Read lots and lots of research papers on LLMs and generative modeling and try to implement them in code. Also, getting familiarized with Kubernetes, MLOps, and AiOps best practices.
-
-- 💬 Ask me about LLMs, RAG, NLP, Audio Signal Processing using Deep Learning, Music Information Retrieval, Biomedical Image Segmentation, and Custom DL networks.
-
-- 📫 Reach me out at: [aaryan.nakhat@gmail.com](aaryan.nakhat@gmail.com)
-
-- 🏅Social Contributions: I use <a href="https://linktr.ee/Technology_And_Physics101">social media</a> to educate the tech and physics audience by making them aware of the recent happenings in these fields and by explaining complex concepts more intuitively and lucidly.
-
-- 💡 Other Interests: Fields like Astrophysics, Quantum Mechanics, Economics & Human Psychology never fall short of instigating my curiosity.
-
-- 🔮 Hobbies: Cooking, cycling, playing, and watching cricket are some of my preferred downtime activities.
+- 🔭 Currently shipping real-time **voice agents** in production — LLM **fine-tuning (SFT/DPO)**, **GraphRAG**, **multi-agent orchestration**, and model serving on **vLLM / SGLang**.
+- 🧠 I've worked across the ML evolution — from **SVMs & XGBoost**, through **CNNs / RNNs / Transformers / ViTs**, to today's **LLMs & GenAI**.
+- 🌱 Exploring agentic systems, multimodal LLMs, and inference optimization.
+- 💬 Ask me about LLMs, RAG, fine-tuning, the speech-to-speech stack (**STT/TTS/ASR/VAD, LiveKit**), and scalable ML systems.
+- 🌐 Portfolio: **[aaryan-nakhat.github.io](https://aaryan-nakhat.github.io/)**
+- 📫 Reach me at: **aaryan.nakhat@gmail.com**
+- ⚡ Outside work: cricket, cooking, cycling — and a lasting curiosity for astrophysics, quantum mechanics, and economics.
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
@@ -23,12 +19,30 @@
 
 - **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics: Bayesian player-skill modeling (**JAX/NumPyro**) and an **XGBoost** win-probability impact metric (ΔWP), 12 novel context-adjusted metrics, a cross-league **Scout** (look-alike & replacement search across 6 competitions), and a real-rules IPL auction **Monte-Carlo**. Live as a React site.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaryan-nak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryan-nak" height="30" width="40" /></a>
-</p>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1FD5A3?style=flat)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-202020?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan-nakhat&show_icons=true&locale=en&layout=compact" alt="aaryan-nakhat" /></p>
+<h3 align="left">🤝 Connect with me:</h3>
+
+<a href="https://linkedin.com/in/aaryan-nak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Aaryan-Nakhat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://aaryan-nakhat.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:aaryan.nakhat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaryan-Nakhat&show_icons=true&locale=en&layout=compact" alt="Aaryan-Nakhat" /></p>
