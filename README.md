@@ -2,7 +2,7 @@
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
 <p align="center">
-<b>Founding AI/ML Engineer @ SalesAgents AI</b>, building production-grade AI systems. 5+ years in AI/ML (3+ professional), specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
+<b>Founding AI/ML Engineer @ SalesAgents AI</b>, building production-grade AI systems. 3+ years of professional experience, specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
 </p>
 
 - 🔭 Currently shipping real-time **voice agents** in production — LLM **fine-tuning (SFT/DPO)**, **GraphRAG**, **multi-agent orchestration**, and model serving on **vLLM / SGLang**.
@@ -15,9 +15,9 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research platform for Indian (NSE/BSE) stocks from primary/official sources only. Anti-bot scrapers (exchange filings, XBRL financials, live quotes, F&O OI, FII/DII, MCX commodities) ingested into **DuckDB**; a forensic block (Altman Z, Piotroski F, Beneish M, accruals) + sector-aware valuation (P/B-ROE, EV/EBITDA, reverse-DCF); an **LLM** turns concalls/filings into a forensic thesis, served by an always-on **email/Telegram bot** with on-demand PDF reports and automated midday/EOD watchlist digests (live movers, FII positioning, insider/SEBI-PIT signals).
+- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research & forensic platform for Indian (NSE/BSE) stocks, primary/official sources only. Anti-bot scrapers (filings, XBRL financials, live quotes, F&O OI, FII/DII, USD/INR, MCX, ~14,500 AMFI NAVs) → **DuckDB**; a forensic block (Altman Z, Beneish M, Sloan accruals, Piotroski) + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF); holder-level ownership with quarter-over-quarter change tracking; **idea-discovery engines** (Nifty-500 value finder, holding-company discount finder, ~25 marquee-investor tracker, capex-led small-cap hunter, and a **government policy radar** over primary PIB releases); plus fund deep-reports (~14,500 schemes) and IPO pre-listing notes. An **LLM** turns concalls/filings into a forensic thesis, served by an always-on **email/Telegram bot** with on-demand PDF reports and live midday/EOD digests (movers, FII positioning, insider/SEBI-PIT signals).
 
-- **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics: Bayesian player-skill modeling (**JAX/NumPyro**) and an **XGBoost** win-probability impact metric (ΔWP), 12 novel context-adjusted metrics, a cross-league **Scout** (look-alike & replacement search across 6 competitions), and a real-rules IPL auction **Monte-Carlo**. Live as a React site.
+- **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics: Bayesian player-skill modeling (**JAX/NumPyro**) and an **XGBoost** win-probability impact metric (ΔWP), 10 novel context-adjusted metrics, a cross-league **Scout** (look-alike & replacement search across 6 competitions), and a real-rules IPL auction **Monte-Carlo**. Live as a React site.
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 
