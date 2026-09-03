@@ -15,9 +15,20 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research & forensic platform for Indian (NSE/BSE) stocks, primary/official sources only. Anti-bot scrapers (filings, XBRL financials, live quotes, F&O OI, FII/DII, USD/INR, MCX, sectoral-index OHLC/valuation, ~14,500 AMFI NAVs) → **DuckDB**; a forensic block (Altman Z, Beneish M, Sloan accruals, Piotroski) + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF); holder-level ownership with quarter-over-quarter change tracking and **smart-money cost-zone / profit-booking-risk** inference. A stack of **idea-discovery & signal engines**: Nifty-500 value finder, holding-company discount finder, ~25 marquee-investor tracker, capex-led small-cap hunter, a **government policy radar** over primary PIB releases, a **top-down sector-rotation** analyzer, technical level/breakout screens, a **portfolio sell-advisor**, and **"Tailwind"** — an autonomous multi-agent engine that reads global policy / export-ban / tariff shocks (Google News + US Federal Register) and traces them to verified Indian beneficiary producers. Plus fund deep-reports (~14,500 schemes) and IPO pre-listing notes. An **LLM** turns concalls/filings into a forensic thesis, served by an always-on **email/Telegram bot** with on-demand PDF reports, live pre-market / midday / EOD digests (movers, FII positioning, insider/SEBI-PIT signals), and weekly Tailwind & sector pushes.
+- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research & forensic platform for Indian (NSE/BSE) stocks, **primary/official sources only**.
+  - 📥 **Data** — anti-bot scrapers (filings, XBRL financials, live quotes, F&O OI, FII/DII, USD/INR, MCX, sectoral-index OHLC/valuation, ~14,500 AMFI NAVs) → **DuckDB**.
+  - 🔬 **Forensic + valuation** — Altman Z, Beneish M, Sloan accruals, Piotroski + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF).
+  - 🏦 **Ownership** — holder-level tracking with quarter-over-quarter change and **smart-money cost-zone / profit-booking-risk** inference.
+  - 🧭 **Discovery & signal engines** — Nifty-500 value finder, holding-company discount finder, ~25 marquee-investor tracker, capex-led small-cap hunter, a **government policy radar** over primary PIB releases, a **top-down sector-rotation** analyzer, technical level/breakout screens, and a **portfolio sell-advisor**.
+  - 💨 **"Tailwind"** — an autonomous multi-agent engine that reads global policy / export-ban / tariff shocks (Google News + US Federal Register) and traces them to verified Indian beneficiary producers.
+  - 📊 **Also** — fund deep-reports (~14,500 schemes) and IPO pre-listing notes.
+  - 🤖 **Delivery** — an **LLM** turns concalls/filings into a forensic thesis, served by an always-on **email/Telegram bot** with on-demand PDF reports, live pre-market / midday / EOD digests (movers, FII positioning, insider/SEBI-PIT signals), and weekly Tailwind & sector pushes.
 
-- **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics: Bayesian player-skill modeling (**JAX/NumPyro**) and an **XGBoost** win-probability impact metric (ΔWP), 10 novel context-adjusted metrics, a cross-league **Scout** (look-alike & replacement search across 6 competitions), and a real-rules IPL auction **Monte-Carlo**. Live as a React site.
+- **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics, live as a React site.
+  - 🎯 **Player skill** — Bayesian player-skill modeling (**JAX/NumPyro**).
+  - 📈 **Impact metric** — an **XGBoost** win-probability impact metric (ΔWP), plus 10 novel context-adjusted metrics.
+  - 🔍 **Scout** — cross-league look-alike & replacement search across 6 competitions.
+  - 🏏 **Auction** — a real-rules IPL auction **Monte-Carlo**.
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 
