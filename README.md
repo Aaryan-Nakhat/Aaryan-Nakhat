@@ -2,10 +2,11 @@
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
 <p align="center">
-<b>Founding AI/ML Engineer @ SalesAgents AI</b>, building production-grade AI systems. 3+ years of professional experience, specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
+<b>Senior Manager, AI/ML @ SalesAgents AI</b>, building production-grade AI systems. 3+ years of professional experience, specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
 </p>
 
 - 🔭 Currently shipping real-time **voice agents** in production — LLM **fine-tuning (SFT/DPO)**, **GraphRAG**, **multi-agent orchestration**, and model serving on **vLLM / SGLang**.
+- 🗣️ Recently shipped a **voice ordering agent** over an 8,000+ product catalogue — layered **Elasticsearch** search, speech-to-text error recovery on garbled names, and **tool-calling** for live pricing / stock.
 - 🧠 I've worked across the ML evolution — from **SVMs & XGBoost**, through **CNNs / RNNs / Transformers / ViTs**, to today's **LLMs & GenAI**.
 - 🌱 Exploring agentic systems, multimodal LLMs, and inference optimization.
 - 💬 Ask me about LLMs, RAG, fine-tuning, the speech-to-speech stack (**STT/TTS/ASR/VAD, LiveKit**), and scalable ML systems.
