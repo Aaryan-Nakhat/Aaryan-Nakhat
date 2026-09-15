@@ -16,14 +16,15 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research & forensic platform for Indian (NSE/BSE) stocks, **primary/official sources only**.
-  - 📥 **Data** — anti-bot scrapers (filings, XBRL financials, live quotes, F&O OI, FII/DII, USD/INR, MCX, sectoral-index OHLC/valuation, ~14,500 AMFI NAVs) → **DuckDB**.
-  - 🔬 **Forensic + valuation** — Altman Z, Beneish M, Sloan accruals, Piotroski + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF).
+- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — End-to-end equity-research, forensic & idea-discovery platform for Indian (NSE/BSE) stocks, **primary/official sources only**.
+  - 📥 **Data** — anti-bot scrapers (filings, XBRL financials, live quotes, F&O OI, FII/DII, USD/INR, MCX, sectoral-index OHLC/valuation, ~14,500 AMFI NAVs) → a **17-table DuckDB** store.
+  - 🔬 **Forensic + valuation** — Altman Z, Beneish M, Sloan accruals, Piotroski + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF), plus a **🏢 inside view** (employee & management sentiment).
   - 🏦 **Ownership** — holder-level tracking with quarter-over-quarter change and **smart-money cost-zone / profit-booking-risk** inference.
-  - 🧭 **Discovery & signal engines** — Nifty-500 value finder, holding-company discount finder, ~25 marquee-investor tracker, capex-led small-cap hunter, a **government policy radar** over primary PIB releases, a **top-down sector-rotation** analyzer, technical level/breakout screens, and a **portfolio sell-advisor**.
-  - 💨 **"Tailwind"** — an autonomous multi-agent engine that reads global policy / export-ban / tariff shocks (Google News + US Federal Register) and traces them to verified Indian beneficiary producers.
-  - 📊 **Also** — fund deep-reports (~14,500 schemes) and IPO pre-listing notes.
-  - 🤖 **Delivery** — an **LLM** turns concalls/filings into a forensic thesis, served by an always-on **email/Telegram bot** with on-demand PDF reports, live pre-market / midday / EOD digests (movers, FII positioning, insider/SEBI-PIT signals), and weekly Tailwind & sector pushes.
+  - 🧭 **Discovery engines** (surface stocks you didn't name) — value finder, **volume breakouts**, **relative-strength leaders**, **institutional-buying**, **margin-momentum / deleveraging / quality-compounder** screens, holding-company discount finder, ~25 marquee-investor tracker, capex-led small-cap hunter, a **government policy radar** (primary PIB), **top-down sector-rotation**, technical setups, a **multi-signal Hotlist** (confluence across engines), and a **portfolio sell-advisor**.
+  - 🎙️ **Earnings monitoring** — **Concalls** (management's forward *tone* vs the quarter's delivered *numbers* → a say-do gap), a **Results Radar** (just-reported growth + acceleration), and **keyword filing-alerts**.
+  - 💨 **Autonomous idea engines** — **"Tailwind"** (global export-ban / tariff shocks → verified Indian beneficiaries) and **"Pickaxe"** (surging domestic demand → the indirect "sell-the-pickaxes" beneficiary), each a multi-agent scout→analyst→mapper→auditor pipeline.
+  - 📊 **Also** — fund deep-reports (~14,500 schemes) and IPO pre-listing notes (with allotment odds + a governance flag).
+  - 🤖 **Delivery** — a **provider-agnostic LLM** (bring your own) turns filings/concalls into a forensic thesis, served by an always-on **email bot**: on-demand PDF reports, reply-a-number drill-downs, and live pre-market / midday / EOD digests (movers, FII positioning, insider/SEBI-PIT signals) + weekly pushes.
 
 - **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics, live as a React site.
   - 🎯 **Player skill** — Bayesian player-skill modeling (**JAX/NumPyro**).
