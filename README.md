@@ -7,6 +7,7 @@
 
 - 🔭 Currently shipping real-time **voice agents** in production — LLM **fine-tuning (SFT/DPO)**, **GraphRAG**, **multi-agent orchestration**, and model serving on **vLLM / SGLang**.
 - 🗣️ Recently shipped a **voice ordering agent** over an 8,000+ product catalogue — layered **Elasticsearch** search, speech-to-text error recovery on garbled names, and **tool-calling** for live pricing / stock.
+- 🎧 Fine-tuned our own **real-time streaming speech-to-text model** (cache-aware **FastConformer + TDT**, on **NVIDIA NeMo**) for **9 Indian languages** — mixed-language speech, **context biasing** for product names, and **end-of-turn detection**.
 - 🧠 I've worked across the ML evolution — from **SVMs & XGBoost**, through **CNNs / RNNs / Transformers / ViTs**, to today's **LLMs & GenAI**.
 - 🌱 Exploring agentic systems, multimodal LLMs, and inference optimization.
 - 💬 Ask me about LLMs, RAG, fine-tuning, the speech-to-speech stack (**STT/TTS/ASR/VAD, LiveKit**), and scalable ML systems.
@@ -40,6 +41,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-1FD5A3?style=flat)
+![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-202020?style=flat)
