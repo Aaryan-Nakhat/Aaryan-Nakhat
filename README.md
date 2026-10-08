@@ -17,8 +17,8 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — Self-hosted equity-research, forensic & idea-discovery platform for Indian (NSE/BSE) stocks — **50 tools**, built on **primary/official sources**.
-  - 📥 **Data** — anti-bot scrapers (exchange filings & their PDFs, XBRL financials, prices, shareholding, corporate actions since 2012, rating & preferential-issue filings, SEBI draft prospectuses, US FDA drug master files, UN trade data, government vehicle registrations, commodity futures, ~14,500 AMFI NAVs) → a **42-table DuckDB** store that adjusts for splits, bonuses, rights & demergers and checks its own data health.
+- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — Self-hosted equity-research, forensic & idea-discovery platform for Indian (NSE/BSE) stocks — **51 tools**, built on **primary/official sources**.
+  - 📥 **Data** — anti-bot scrapers (exchange filings & their PDFs, XBRL financials, prices, shareholding, corporate actions since 2012, rating & preferential-issue filings, SEBI draft prospectuses, US FDA drug master files, UN trade data, government vehicle registrations, DGCA airline traffic, commodity futures, ~14,500 AMFI NAVs) → a **43-table DuckDB** store that adjusts for splits, bonuses, rights & demergers and checks its own data health.
   - 🔬 **Forensic + valuation** — Altman Z, Beneish M, Sloan accruals, Piotroski + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF), plus a **🏢 inside view** (employee & management sentiment).
   - 🏦 **Ownership** — holder-level tracking with quarter-over-quarter change and **smart-money cost-zone / profit-booking-risk** inference.
   - 🧭 **24 discovery screens + 7 radars** (surface stocks you didn't name) — value, quality compounders, near-lows-but-healthy, breakouts, relative strength, institutional buying, capex-led small caps, holding-company discounts, top-down sector rotation, a government policy radar — and a **multi-signal Hotlist** where 19 engines vote.
