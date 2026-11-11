@@ -2,7 +2,7 @@
 <h3 align="center">Hey there, I'm Aaryan! 👋</h3>
 
 <p align="center">
-<b>Senior Manager, AI/ML @ SalesAgents AI</b>, building production-grade AI systems. 3+ years of professional experience, specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
+<b>Senior Manager, AI/ML @ SalesAgents AI</b>, building production-grade AI systems. Nearly 4 years of professional experience, specializing in <b>LLMs, RAG / GraphRAG, voice AI, multi-agent systems, and LLM Ops</b>.
 </p>
 
 - 🔭 Currently shipping real-time **voice agents** in production — LLM **fine-tuning (SFT/DPO)**, **GraphRAG**, **multi-agent orchestration**, and model serving on **vLLM / SGLang**.
@@ -17,23 +17,24 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- **[Personal Equity-Research & Forensic Analysis Workbench](https://github.com/Aaryan-Nakhat/aaryan-nakhat-equity-research)** — Self-hosted equity-research, forensic & idea-discovery platform for Indian (NSE/BSE) stocks — **53 tools**, built on **primary/official sources**.
-  - 📥 **Data** — anti-bot scrapers (exchange filings & their PDFs, XBRL financials, prices, shareholding, corporate actions since 2012, rating & preferential-issue filings, SEBI draft prospectuses, US FDA drug master files, UN trade data, government vehicle registrations, DGCA airline traffic, CEA power generation, TRAI telecom subscribers, commodity futures, ~14,500 AMFI NAVs) → a **45-table DuckDB** store that adjusts for splits, bonuses, rights & demergers and checks its own data health.
+- **[Personal Equity-Research & Forensic Analysis Workbench](https://aaryan-nakhat.github.io/#equity-workbench)** — Self-hosted equity-research, forensic & idea-discovery platform for Indian (NSE/BSE) stocks — **71 tools**, built on **primary/official sources**.
+  - 📥 **Data** — anti-bot scrapers (exchange filings & their PDFs, XBRL financials, prices, shareholding, corporate actions since 2012, rating & preferential-issue filings, SEBI draft prospectuses, US FDA drug master files, UN trade data, government vehicle registrations, DGCA airline traffic, CEA power generation, TRAI telecom subscribers, commodity futures, ~14,500 AMFI NAVs) → a **70+ table DuckDB** store that adjusts for splits, bonuses, rights & demergers and checks its own data health.
   - 🔬 **Forensic + valuation** — Altman Z, Beneish M, Sloan accruals, Piotroski + sector-aware valuation (P/B-ROE, EV/EBITDA, Monte-Carlo & reverse-DCF), plus a **🏢 inside view** (employee & management sentiment).
   - 🏦 **Ownership** — holder-level tracking with quarter-over-quarter change and **smart-money cost-zone / profit-booking-risk** inference.
-  - 🧭 **24 discovery screens + 7 radars** (surface stocks you didn't name) — value, quality compounders, near-lows-but-healthy, breakouts, relative strength, institutional buying, capex-led small caps, holding-company discounts, top-down sector rotation, a government policy radar — and a **multi-signal Hotlist** where 19 engines vote.
+  - 🧭 **25 discovery screens + 19 idea radars** (surface stocks you didn't name) — value, quality compounders, near-lows-but-healthy, breakouts, relative strength, institutional buying, capex-led small caps, holding-company discounts, top-down sector & industry rotation, a government policy radar — and **Most-Flagged Stocks**, the names several engines agree on. Plus a **Stock Filter**: your own conditions over ~120 numbers for every company.
   - 📑 **Filing-reading signals** (LLM-extracted, **every fact quote-checked against the source PDF**) — credit-rating upgrades with the agency's reasons, promoter warrants & preferential issues (premium paid, conversions), first dividends & buybacks, new CEOs/CFOs (researched, with sources), exits from loss-making businesses, first investor meets, IPO peer read-across (incl. SEBI drafts), US-FDA drug pipelines, import substitution, input-cost easing, and each auto maker's quarter from government registrations.
-  - 🎙️ **Earnings monitoring** — **Concalls** (management's forward *tone* vs the quarter's delivered *numbers* → a say-do gap), a **Results Radar** (just-reported growth + acceleration), and **keyword filing-alerts**.
-  - 💨 **Autonomous idea engines** — **"Tailwind"** (global export-ban / tariff shocks → verified Indian beneficiaries) and **"Pickaxe"** (surging domestic demand → the indirect "sell-the-pickaxes" beneficiary), each a multi-agent scout→analyst→mapper→auditor pipeline.
-  - 🛡️ **Investor tools** — **Reality Check** (a reel / post / article's claims verified against filings), **Thesis Guard** (why you own a stock, re-checked nightly), a **tax-aware portfolio** (FIFO, LTCG/STCG, grandfathering, mergers & demergers) with "raise ₹X" sell plans, and a **track record** that logs every call and scores it against the Nifty 500.
+  - 🎙️ **Earnings monitoring** — **Management Tone vs Numbers** (what management says on the call vs what the quarter delivered), **Strongest Results** (just-reported growth + acceleration), a **Promise Tracker** and **Guidance Track Record** (past guidance scored against later results), and **keyword filing-alerts**.
+  - 💨 **Autonomous idea engines** — **Global Shortage Winners** (global export-ban / tariff shocks → verified Indian beneficiaries) and **Demand Boom Suppliers** (surging domestic demand → the indirect "sell-the-pickaxes" beneficiary), each a multi-agent scout→analyst→mapper→auditor pipeline.
+  - 🛡️ **Investor tools** — **Reality Check** (a reel / post / article's claims verified against filings), **Buy-Reason Check** (why you own a stock, re-checked nightly), a **tax-aware portfolio** (FIFO, LTCG/STCG, grandfathering, mergers & demergers) with "raise ₹X" sell plans, a **Portfolio X-Ray** (your book by sector, industry and theme, which are gaining or losing strength, green & red flags, upcoming results), a **track record** that logs every call and scores it against the Nifty 500, and a **Backtest** that replays the screens at month-ends since 2018 without hindsight, delisted companies included.
   - 📊 **Also** — fund deep-reports (~14,500 schemes) and IPO pre-listing notes (allotment odds + a governance flag).
-  - 🤖 **Delivery** — a **provider-agnostic LLM** (bring your own); a **local web UI** (every tool with how-it-works cards, live job progress), an `eqr` **CLI**, and an always-on **email bot** with on-demand PDF reports and scheduled pre-market / midday / evening / weekly digests; Docker; 450+ tests.
+  - 🤖 **Delivery** — a **provider-agnostic LLM** (bring your own); a **local web UI** (every tool with how-it-works cards, live job progress), an `eqr` **CLI**, and an always-on **email bot** with on-demand PDF reports and scheduled pre-market / midday / evening / weekly digests; Docker; 870+ tests. *(Code is private until launch.)*
 
-- **[CricDex — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdex/)** — Ball-by-ball cricket analytics, live as a React site.
-  - 🎯 **Player skill** — Bayesian player-skill modeling (**JAX/NumPyro**).
-  - 📈 **Impact metric** — an **XGBoost** win-probability impact metric (ΔWP), plus 10 novel context-adjusted metrics.
-  - 🔍 **Scout** — cross-league look-alike & replacement search across 6 competitions.
-  - 🏏 **Auction** — a real-rules IPL auction **Monte-Carlo**.
+- **[CricDesk — Open Cricket Intelligence Platform](https://aaryan-nakhat.github.io/cricdesk/)** ([code](https://github.com/Aaryan-Nakhat/cricdesk)) — Ball-by-ball cricket analytics, live as a React site.
+  - 🎯 **Player skill** — Bayesian player-skill modeling (**JAX/NumPyro**), with **15 T20 competitions** on one scale.
+  - 📈 **Impact metric** — an **XGBoost** win-probability impact metric (ΔWP), plus 12 novel context-adjusted metrics.
+  - 🔍 **Scout** — cross-league look-alike & replacement search across 15 T20 competitions.
+  - 🏏 **Auction** — a real-rules IPL auction **Monte-Carlo**, with rival bidding fitted on every real auction since 2019.
+  - 📋 **Retention & auction planning** — a retention model fitted on every IPL deadline since 2018 (all 2027 calls published before the deadline), per-team bid plans and a 3-season form forecast, as PDF briefs.
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 
